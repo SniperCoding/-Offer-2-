@@ -63,6 +63,7 @@ class Solution {
 - 如果当前值小于 target，那么说明当前前面整行的值均小于 target，因此直接可以舍弃此行，将元素往下移动一格；
 - 如果当前值大于 target，那么说明当前下面整列的值均大于 target，因此可以舍弃此列，将元素往左移动一格；
 - 如果当前值等于 target，那么直接返回true即可。
+- 一旦移动到了左下角后，仍然没有元素等于 target，则返回false即可。
 - 下图展示了当 target=20 时，元素的遍历轨迹。
 
 <img src="https://cdn.jsdelivr.net/gh/SniperCoding/pictures1/20220302233635.png" alt="image-20220302233607447" style="zoom: 80%;" />
