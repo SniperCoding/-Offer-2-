@@ -19,9 +19,14 @@
 
 ## 解法
 
-### 想法：使用StringBuilder
+### 想法：使用 StringBuilder
 
-遍历字符串，如果遍历的字符不为空格，直接将其添加到 StringBuilder 中，如果是空格，则把 “20%” 添加到 StringBuilder 中。 
+遍历字符串
+
+- 如果遍历的字符不为空格，直接将其添加到 StringBuilder 中
+- 如果是空格，则把 “20%” 添加到 StringBuilder 中
+
+最后使用 StringBuilder 的 toString 方法返回即可
 
 时间复杂度O(n)，空间复杂度O(n)
 
