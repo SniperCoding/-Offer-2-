@@ -79,7 +79,7 @@ class Solution {
             first = second; 
             second = result;
         }
-        return result;
+        return second;
     }
 }
 ~~~
