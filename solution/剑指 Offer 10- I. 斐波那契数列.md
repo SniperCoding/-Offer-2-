@@ -51,9 +51,11 @@ class Solution {
         // 2. 定义初始条件
         dp[0] = 0;
         dp[1] = 1;
+        // 3.状态转移方程
         for(int i=2;i<=n;i++){
             dp[i] = (dp[i-1] + dp[i-2]) % 1000000007;
         }
+        // 4.返回最终结果
         return dp[n];
     }
 }
@@ -61,7 +63,7 @@ class Solution {
 
 由递推公式 dp[i] = dp[i-1] + dp[i-2] 值求 <u>dp[i] 只与 dp[i-1] 和 dp[i-2] 这两个值有关</u>，那么我们可以使用三个变量 first、second 和 next  分别表示  dp[i] 、 dp[i - 1] 和dp[i - 2]，则有 result = first + second，之后往后遍历（即 i++）时，first 的值应该更新为 second，而 second 的值更新为 result 即可。
 
-- 时间复杂度 O(n)，空间复杂度 O(1)。
+时间复杂度 O(n)，空间复杂度 O(1)。
 
 ~~~java
 class Solution {
