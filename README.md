@@ -19,3 +19,5 @@
 
 [剑指 Offer 10- II. 青蛙跳台阶问题](https://github.com/SniperCoding/The_sword_refers_to_offer/blob/main/solution/%E5%89%91%E6%8C%87%20Offer%2010-%20II.%20%E9%9D%92%E8%9B%99%E8%B7%B3%E5%8F%B0%E9%98%B6%E9%97%AE%E9%A2%98.md)
 
+[剑指 Offer 11. 旋转数组的最小数字](https://github.com/SniperCoding/The_sword_refers_to_offer/blob/main/solution/%E5%89%91%E6%8C%87%20Offer%2011.%20%E6%97%8B%E8%BD%AC%E6%95%B0%E7%BB%84%E7%9A%84%E6%9C%80%E5%B0%8F%E6%95%B0%E5%AD%97.md)
+
