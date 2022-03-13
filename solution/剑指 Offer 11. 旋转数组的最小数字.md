@@ -30,7 +30,7 @@
 
 我们首先定义左右指针，分别指向数组的两端：`left=0`，`right=numbers.length-1`
 
-之后可以进行循环的二分搜索，另中间值 `mid = left + (right-left) / 2`，由于Java 的除法是整除，因此有 left<=mid<right，为什么不直接用 mid = (left + right ) / 2 这种解法呢？注意是由于 left + right 的结果可能会超出整数范围，导致整型溢出错误。
+之后可以进行循环的二分搜索，令中间值 `mid = left + (right-left) / 2`，由于Java 的除法是整除，因此有 left <= mid < right，为什么不直接用 mid = (left + right ) / 2 这种解法呢？注意是由于 left + right 的结果可能会超出整数范围，导致整型溢出错误。
 
 我们将中间值与最右侧的值进行比较，分为以下三种情况：
 
