@@ -21,3 +21,5 @@
 
 [剑指 Offer 11. 旋转数组的最小数字](https://github.com/SniperCoding/The_sword_refers_to_offer/blob/main/solution/%E5%89%91%E6%8C%87%20Offer%2011.%20%E6%97%8B%E8%BD%AC%E6%95%B0%E7%BB%84%E7%9A%84%E6%9C%80%E5%B0%8F%E6%95%B0%E5%AD%97.md)
 
+[剑指 Offer 12. 矩阵中的路径](https://github.com/SniperCoding/The_sword_refers_to_offer/blob/main/solution/%E5%89%91%E6%8C%87%20Offer%2012.%20%E7%9F%A9%E9%98%B5%E4%B8%AD%E7%9A%84%E8%B7%AF%E5%BE%84.md)
+
