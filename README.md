@@ -43,5 +43,5 @@
 
 [剑指 Offer 24. 反转链表](https://github.com/SniperCoding/The_sword_refers_to_offer/blob/main/solution/%E5%89%91%E6%8C%87%20Offer%2024.%20%E5%8F%8D%E8%BD%AC%E9%93%BE%E8%A1%A8.md)
 
-[剑指 Offer 25. 合并两个排序的链表]([剑指 Offer 25. 合并两个排序的链表](https://leetcode-cn.com/problems/he-bing-liang-ge-pai-xu-de-lian-biao-lcof/))
+[剑指 Offer 25. 合并两个排序的链表](https://leetcode-cn.com/problems/he-bing-liang-ge-pai-xu-de-lian-biao-lcof/)
 
