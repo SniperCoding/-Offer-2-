@@ -53,3 +53,5 @@
 
 [剑指 Offer 29. 顺时针打印矩阵](https://github.com/SniperCoding/The_sword_refers_to_offer/blob/main/solution/%E5%89%91%E6%8C%87%20Offer%2029.%20%E9%A1%BA%E6%97%B6%E9%92%88%E6%89%93%E5%8D%B0%E7%9F%A9%E9%98%B5.md)
 
+[剑指 Offer 30. 包含min函数的栈](https://github.com/SniperCoding/The_sword_refers_to_offer/blob/main/solution/%E5%89%91%E6%8C%87%20Offer%2030.%20%E5%8C%85%E5%90%ABmin%E5%87%BD%E6%95%B0%E7%9A%84%E6%A0%88.md)
+
